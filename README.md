@@ -14,8 +14,8 @@ class: center, middle
 
 - ARPA网
 - 互联网
-  - 万维网
-  - 电子邮件
+    - 万维网
+    - 电子邮件
 
 ???
 
