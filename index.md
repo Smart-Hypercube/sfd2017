@@ -1,3 +1,8 @@
+---
+title: 分布式社交展望
+template: default
+---
+
 class: center, middle
 
 # 分布式社交展望
