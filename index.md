@@ -11,7 +11,7 @@ class: center, middle, inverse
 
 # 分布式社交展望
 王子博
-.footnote[[源文件](https://github.com/Smart-Hypercube/sfd2017) [幻灯片](http://sfd2017.0x01.me/) [寻找存档](https://ustclug.org/)]
+.footnote[[源文件](https://github.com/Smart-Hypercube/sfd2017) [幻灯片](http://0x01.me/sfd2017) [寻找存档](https://lug.ustc.edu.cn/)]
 ???
 上世纪60年代，出于冷战的考虑，美国认识到在不同的计算机系统、不同的局部网络之间建立可靠的连接是非常重要的。在这个想法下，ARPA网应运而生。ARPA被创造者们最津津乐道的特性之一就是它用到了分散网络技术，将所有网络节点连接成了分布式的网络，这使得它的可靠性远高于中心化的网络。
 
